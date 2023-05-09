@@ -1,5 +1,0 @@
-!*DEBUG FUSI0021.COD
-WHEN = '##RECNAME##'
-  do fusi-JOB-##RECNAME##($emplid, #empl_rcd, $dt_nt_effdt)
-  break
-!*DEBUG FUSI0021.COD
