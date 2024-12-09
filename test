@@ -1,1 +1,10 @@
+<PeopleSoftPlugin>
+    <DefinitionTypeSelections>
+        <Type>
+            <ID>110</ID>
+            <Name>JSON Documents</Name>
+        </Type>
+        <!-- Add more types if necessary -->
+    </DefinitionTypeSelections>
+</PeopleSoftPlugin>
 
